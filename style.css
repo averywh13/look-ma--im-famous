@@ -88,3 +88,7 @@ body {
      transition-delay: 0.2s;
     
   }
+  .card-body {
+    background-color: tan;
+  }
+  
